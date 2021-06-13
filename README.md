@@ -11,6 +11,8 @@ Java, SpringBoot, SpringCloud, Golang, K8s, Kong, OAuth2, IAM, Javascript, ES6, 
 
 ![Made with love in China](https://madewithlove.now.sh/cn?heart=true&colorA=%239e9e9e&colorB=%23e13748)
 ![profile views](https://komarev.com/ghpvc/?username=edison-hsu&label=PROFILE+VIEWS&style=flat-square)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
 
 
