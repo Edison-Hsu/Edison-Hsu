@@ -5,7 +5,7 @@ Java, SpringBoot, SpringCloud, Golang, K8s, Kong, OAuth2, IAM, Javascript, ES6, 
 ![skills](./skills.jpg)
 -->
 
-[![Edison-Hsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=edison-hsu&count_private=true&show_icons=true)](https://github.com/Edison-Hsu/Edison-Hsu)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=edison-hsu&count_private=true&show_icons=true" />
 
 
 
